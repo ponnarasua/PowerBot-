@@ -8,4 +8,3 @@ sentence-transformers==2.2.2
 streamlit==1.27.2
 transformers==4.34.1
 wikipedia==1.4.0
-
